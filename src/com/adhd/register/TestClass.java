@@ -4,5 +4,6 @@ public class TestClass {
 
 	public TestClass(){
 		super();
+		System.out.println("");
 	}
 }
